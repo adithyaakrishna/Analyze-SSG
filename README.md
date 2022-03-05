@@ -18,8 +18,8 @@ The advantages of using SSGs are,
     <th>Dynamic Page</th>
   </tr>
   <tr>
-    <td>![Static Page](/assets/Static.png)</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Static.png" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic.png" /></td>
   </tr>
 </table>
 
