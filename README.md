@@ -39,56 +39,19 @@ The advantages of using SSGs are,
     <th>Image&nbsp;Optimization</th>
     <th>Community</th>
     <th>Learning&nbsp;Curve</th>
-    <th>Language</th>
-    <th>Algolia&nbsp;Supported</th>
-    <th>Website</th>
+    <th>URL</th>
   </tr>
   <tr>
     <td>Docsify</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Docusaurus</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>VuePress</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Scully</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Middleman</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Jekyll</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Jigsaw</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Hugo</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>11ty</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>Gridsome</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>NextJS</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
-  </tr>
-  <tr>
-    <td>NuxtJS</td>
-    <td>![Dynamic Page](/assets/Dynamic.png)</td>
+    <td>MIT License</td>
+    <td>JavaScript</td>
+    <td>VueJS</td>
+    <td>Documentation</td>
+    <td>VueJS/Markdown</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Good Support</td>
+    <td>Easy</td>
+    <td>[Docsify Website](https://docsify.js.org/)</td>
   </tr>
 </table>
