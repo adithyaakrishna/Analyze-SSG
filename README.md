@@ -4,7 +4,7 @@
 
 <br />
 
-There are many static site generators like VuePress, Docusaurus and many more. But all of them have one single and specific goal, to generate static HTML file and all of its assets.
+There are many static site generators like VuePress, Docusaurus and many more. All of them have one single and specific goal, to generate static HTML file and all of its assets.
 
 The advantages of using SSGs are,
 - Faster Loading Time
@@ -18,8 +18,8 @@ The advantages of using SSGs are,
     <th>Dynamic Page</th>
   </tr>
   <tr>
-    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Static.png" /></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic-F.png" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Static.png?token=GHSAT0AAAAAABOM22XLPUFKX3W2KAAPKKGMYRN6I7Q" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic-F.png?token=GHSAT0AAAAAABOM22XL4LYV7DLH2E2THAFGYRN6IUA" /></td>
   </tr>
 </table>
 
