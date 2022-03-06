@@ -19,7 +19,7 @@ The advantages of using SSGs are,
   </tr>
   <tr>
     <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Static.png" /></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic.png" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic-F.png" /></td>
   </tr>
 </table>
 
@@ -79,5 +79,18 @@ The advantages of using SSGs are,
     <td>Very Good Support</td>
     <td>Easy</td>
     <td>[Docusarus Website](https://docusaurus.io/)</td>
+  </tr>
+  <tr>
+    <td>VuePress</td>
+    <td>[MIT License](https://github.com/vuejs/vuepress/blob/master/LICENSE)</td>
+    <td>JavaScript</td>
+    <td>VueJS</td>
+    <td>Documentation</td>
+    <td>VueJS/Markdown</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Good Support</td>
+    <td>Easy</td>
+    <td>[Docusarus Website](https://vuepress.vuejs.org/)</td>
   </tr>
 </table>
