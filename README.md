@@ -60,7 +60,7 @@ The advantages of using SSGs are,
   </tr>
   <tr>
     <td>Hugo</td>
-    <td>[Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)</td>
+    <td><a href="https://github.com/gohugoio/hugo/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">Apache License 2.0</a></td>
     <td>Go</td>
     <td>None</td>
     <td>General</td>
@@ -69,13 +69,13 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Medium</td>
-    <td>[Hugo Gitter](https://gitter.im/spf13/hugo)</td>
-    <td>[Hugo Website](https://gohugo.io/)</td>
-    <td>[Hugo GitHub](https://github.com/gohugoio/hugo)</td>
+    <td><a href="https://gitter.im/spf13/hugo" target="_blank" rel="noopener noreferrer">Hugo Gitter</a></td>
+    <td><a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo Website</a></td>
+    <td><a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener noreferrer">Hugo GitHub</a></td>
   </tr>
   <tr>
     <td>Docusaurus</td>
-    <td>[MIT License](https://github.com/facebook/docusaurus/blob/main/LICENSE)</td>
+    <td><a href="https://github.com/facebook/docusaurus/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>JavaScript</td>
     <td>React.js</td>
     <td>Documentation</td>
@@ -84,13 +84,13 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[Docusaurus Discord](https://discordapp.com/invite/docusaurus)</td>
-    <td>[Docusaurus Website](https://docusaurus.io/)</td>
-    <td>[Docusaurus GitHub](https://github.com/facebook/docusaurus)</td>
+    <td><a href="https://discordapp.com/invite/docusaurus" target="_blank" rel="noopener noreferrer">Docusaurus Discord</a></td>
+    <td><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus Website</a></td>
+    <td><a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer">Docusaurus GitHub</a></td>
   </tr>
   <tr>
     <td>VuePress</td>
-    <td>[MIT License](https://github.com/vuejs/vuepress/blob/master/LICENSE)</td>
+    <td><a href="https://github.com/vuejs/vuepress/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>JavaScript</td>
     <td>Vue.js</td>
     <td>Documentation</td>
@@ -99,13 +99,13 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
-    <td>[Vue.js Discord](https://discord.com/invite/HBherRA)</td>
-    <td>[VuePress Website](https://vuepress.vuejs.org/)</td>
-    <td>[VuePress GitHub](https://github.com/vuejs/vuepress)</td>
+    <td><a href="https://discord.com/invite/HBherRA" target="_blank" rel="noopener noreferrer">Vue.js Discord</a></td>
+    <td><a href="https://vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">VuePress Website</a></td>
+    <td><a href="https://github.com/vuejs/vuepress" target="_blank" rel="noopener noreferrer">VuePress GitHub</a></td>
   </tr>
   <tr>
     <td>Nuxt.js</td>
-    <td>[MIT License](https://github.com/nuxt/nuxt.js/blob/dev/LICENSE)</td>
+    <td><a href="https://github.com/nuxt/nuxt.js/blob/dev/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>JavaScript</td>
     <td>Vue.js</td>
     <td>Application</td>
@@ -114,13 +114,13 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
-    <td>[Nuxt.js Discord](https://discord.com/invite/ps2h6QT)</td>
-    <td>[Nuxt.js Website](https://nuxtjs.org/)</td>
-    <td>[Nuxt.js GitHub](https://github.com/nuxt/nuxt.js)</td>
+    <td><a href="https://discord.com/invite/ps2h6QT" target="_blank" rel="noopener noreferrer">Nuxt.js Discord</a></td>
+    <td><a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">Nuxt.js Website</a></td>
+    <td><a href="https://github.com/nuxt/nuxt.js" target="_blank" rel="noopener noreferrer">Nuxt.js GitHub</a></td>
   </tr>
   <tr>
     <td>Next.js</td>
-    <td>[MIT License](https://github.com/vercel/next.js/blob/canary/license.md)</td>
+    <td><a href="https://github.com/vercel/next.js/blob/canary/license.md" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>JavaScript</td>
     <td>React.js</td>
     <td>Application</td>
@@ -129,13 +129,13 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[Next.js Discord](https://nextjs.org/discord)</td>
-    <td>[Next.js Website](https://nextjs.org/)</td>
-    <td>[Next.js GitHub](https://github.com/vercel/next.js)</td>
+    <td><a href="https://nextjs.org/discord" target="_blank" rel="noopener noreferrer">Next.js Discord</a></td>
+    <td><a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js Website</a></td>
+    <td><a href="https://github.com/vercel/next.js" target="_blank" rel="noopener noreferrer">Next.js GitHub</a></td>
   </tr>
   <tr>
     <td>Gatsby.js</td>
-    <td>[MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE)</td>
+    <td><a href="https://github.com/gatsbyjs/gatsby/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>JavaScript</td>
     <td>React.js</td>
     <td>CMS</td>
@@ -144,23 +144,23 @@ The advantages of using SSGs are,
     <td>Yes</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[Gatsby.js Discord](https://gatsby.dev/discord)</td>
-    <td>[Gatsby.js Website](https://www.gatsbyjs.com/)</td>
-    <td>[Gatsby.js GitHub](https://github.com/gatsbyjs/gatsby)</td>
+    <td><a href="https://gatsby.dev/discord" target="_blank" rel="noopener noreferrer">Gatsby.js Discord</a></td>
+    <td><a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer">Gatsby.js Website</a></td>
+    <td><a href="https://github.com/gatsbyjs/gatsby" target="_blank" rel="noopener noreferrer">Gatsby.js GitHub</a></td>
   </tr>
   <tr>
     <td>Jekyll</td>
-    <td>[MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE)</td>
+    <td><a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></td>
     <td>Ruby</td>
     <td>None</td>
     <td>General</td>
-    <td>[Liquid](https://jekyllrb.com/docs/liquid/)</td>
+    <td><a href="https://jekyllrb.com/docs/liquid/" target="_blank" rel="noopener noreferrer">Liquid</a></td>
     <td>No</td>
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[Jekyll Community](https://jekyllrb.com/docs/community/)</td>
-    <td>[Jekyll Website](https://jekyllrb.com/)</td>
-    <td>[Jekyll GitHub](https://github.com/jekyll/jekyll)</td>
+    <td><a href="https://jekyllrb.com/docs/community/" target="_blank" rel="noopener noreferrer">Jekyll Community</a></td>
+    <td><a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll Website</a></td>
+    <td><a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreferrer">Jekyll GitHub</a></td>
   </tr>
 </table>
