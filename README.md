@@ -71,7 +71,7 @@ The advantages of using SSGs are,
     <td>Docusarus</td>
     <td>[MIT License](https://github.com/facebook/docusaurus/blob/main/LICENSE)</td>
     <td>JavaScript</td>
-    <td>ReactJS</td>
+    <td>React.js</td>
     <td>Documentation</td>
     <td>JSX/TSX (React Based)</td>
     <td>No</td>
@@ -84,9 +84,9 @@ The advantages of using SSGs are,
     <td>VuePress</td>
     <td>[MIT License](https://github.com/vuejs/vuepress/blob/master/LICENSE)</td>
     <td>JavaScript</td>
-    <td>VueJS</td>
+    <td>Vue.js</td>
     <td>Documentation</td>
-    <td>VueJS/Markdown</td>
+    <td>Vue.js/Markdown</td>
     <td>No</td>
     <td>No</td>
     <td>Good Support</td>
@@ -94,12 +94,12 @@ The advantages of using SSGs are,
     <td>[VuePress Website](https://vuepress.vuejs.org/)</td>
   </tr>
   <tr>
-    <td>NuxtJS</td>
+    <td>Nuxt.js</td>
     <td>[MIT License](https://github.com/nuxt/nuxt.js/blob/dev/LICENSE)</td>
     <td>JavaScript</td>
-    <td>VueJS</td>
+    <td>Vue.js</td>
     <td>Application</td>
-    <td>VueJS</td>
+    <td>Vue.js</td>
     <td>No</td>
     <td>No</td>
     <td>Good Support</td>
@@ -107,10 +107,10 @@ The advantages of using SSGs are,
     <td>[NuxtJS Website]https://nuxtjs.org/)</td>
   </tr>
   <tr>
-    <td>NextJS</td>
+    <td>Next.js</td>
     <td>[MIT License](https://github.com/vercel/next.js/blob/canary/license.md)</td>
     <td>JavaScript</td>
-    <td>NextJS</td>
+    <td>React.js</td>
     <td>Application</td>
     <td>JSX/TSX (React Based)</td>
     <td>Yes</td>
@@ -118,5 +118,18 @@ The advantages of using SSGs are,
     <td>Very Good Support</td>
     <td>Easy</td>
     <td>[NextJS Website]https://nextjs.org/)</td>
+  </tr>
+  <tr>
+    <td>Gatsby.js</td>
+    <td>[MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE)</td>
+    <td>JavaScript</td>
+    <td>React.js</td>
+    <td>CMS</td>
+    <td>JSX/TSX (React Based)</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Very Good Support</td>
+    <td>Easy</td>
+    <td>[Gatsby.js Website](https://www.gatsbyjs.com/)</td>
   </tr>
 </table>
