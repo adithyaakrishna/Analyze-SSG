@@ -1,4 +1,4 @@
-# Static Site Generators Comparison
+# Static Site Generators
 
 ## Introduction:
 
@@ -164,3 +164,8 @@ The advantages of using SSGs are,
     <td><a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreferrer">Jekyll GitHub</a></td>
   </tr>
 </table>
+
+
+## License:
+
+[MIT License](LICENSE)
