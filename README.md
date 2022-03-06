@@ -91,6 +91,19 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
-    <td>[Docusarus Website](https://vuepress.vuejs.org/)</td>
+    <td>[VuePress Website](https://vuepress.vuejs.org/)</td>
+  </tr>
+  <tr>
+    <td>NuxtJS</td>
+    <td>[MIT License](https://github.com/nuxt/nuxt.js/blob/dev/LICENSE)</td>
+    <td>JavaScript</td>
+    <td>VueJS</td>
+    <td>Application</td>
+    <td>VueJS</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Very Good Support</td>
+    <td>Easy</td>
+    <td>[NuxtJS Website]https://nuxtjs.org/)</td>
   </tr>
 </table>
