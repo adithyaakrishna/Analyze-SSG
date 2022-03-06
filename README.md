@@ -35,8 +35,8 @@ The advantages of using SSGs are,
     <th>Dynamic Page</th>
   </tr>
   <tr>
-    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Static.png?token=GHSAT0AAAAAABOM22XLPUFKX3W2KAAPKKGMYRN6I7Q" /></td>
-    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/reimagined-system/master/assets/Dynamic-F.png?token=GHSAT0AAAAAABOM22XL4LYV7DLH2E2THAFGYRN6IUA" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/Analyze-SSG/master/assets/Static.png?token=GHSAT0AAAAAABOM22XLDOYNUNKUL66COSPAYRN6Z3Q" /></td>
+    <td><img align="center" src="https://raw.githubusercontent.com/adithyaakrishna/Analyze-SSG/master/assets/Dynamic-F.png?token=GHSAT0AAAAAABOM22XKP5M45ZRXTF42HAH6YRN6ZRA" /></td>
   </tr>
 </table>
 
