@@ -4,7 +4,7 @@
 
 <br />
 
-There are many static site generators like VuePress, Docusaurus etc... but all of them have one single and specific goal, to generate static HTML file and all of its assets.
+There are many static site generators like VuePress, Docusaurus and many more. But all of them have one single and specific goal, to generate static HTML file and all of its assets.
 
 The advantages of using SSGs are,
 - Faster Loading Time
