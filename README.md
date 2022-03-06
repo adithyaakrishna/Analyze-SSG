@@ -39,6 +39,7 @@ The advantages of using SSGs are,
     <th>Image&nbsp;Optimization</th>
     <th>Community</th>
     <th>Learning&nbsp;Curve</th>
+    <th>Community Chat</th>
     <th>URL</th>
   </tr>
   <tr>
@@ -52,6 +53,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
+    <td>[Docsify Discord](https://discord.gg/3NwKFyR)</td>
     <td>[Docsify Website](https://docsify.js.org/)</td>
   </tr>
   <tr>
@@ -65,6 +67,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Medium</td>
+    <td>[Hugo Gitter](https://gitter.im/spf13/hugo)</td>
     <td>[Hugo Website](https://gohugo.io/)</td>
   </tr>
   <tr>
@@ -78,6 +81,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
+    <td>[Docusarus Discord](https://discordapp.com/invite/docusaurus)</td>
     <td>[Docusarus Website](https://docusaurus.io/)</td>
   </tr>
   <tr>
@@ -91,6 +95,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
+    <td>[Vue.js Discord](https://discord.com/invite/HBherRA)</td>
     <td>[VuePress Website](https://vuepress.vuejs.org/)</td>
   </tr>
   <tr>
@@ -104,6 +109,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
+    <td>[Nuxt.js Discord](https://discord.com/invite/ps2h6QT)</td>
     <td>[NuxtJS Website](https://nuxtjs.org/)</td>
   </tr>
   <tr>
@@ -117,6 +123,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
+    <td>[Next.js Discord](https://nextjs.org/discord)</td>
     <td>[NextJS Website](https://nextjs.org/)</td>
   </tr>
   <tr>
@@ -130,6 +137,7 @@ The advantages of using SSGs are,
     <td>Yes</td>
     <td>Very Good Support</td>
     <td>Easy</td>
+    <td>[Gatsby.js Discord](https://gatsby.dev/discord)</td>
     <td>[Gatsby.js Website](https://www.gatsbyjs.com/)</td>
   </tr>
   <tr>
@@ -143,6 +151,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
+    <td>[Jekyll Community](https://jekyllrb.com/docs/community/)</td>
     <td>[Jekyll Website](https://jekyllrb.com/)</td>
   </tr>
 </table>
