@@ -102,8 +102,21 @@ The advantages of using SSGs are,
     <td>VueJS</td>
     <td>No</td>
     <td>No</td>
-    <td>Very Good Support</td>
+    <td>Good Support</td>
     <td>Easy</td>
     <td>[NuxtJS Website]https://nuxtjs.org/)</td>
+  </tr>
+  <tr>
+    <td>NextJS</td>
+    <td>[MIT License](https://github.com/vercel/next.js/blob/canary/license.md)</td>
+    <td>JavaScript</td>
+    <td>NextJS</td>
+    <td>Application</td>
+    <td>JSX/TSX (React Based)</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>Very Good Support</td>
+    <td>Easy</td>
+    <td>[NextJS Website]https://nextjs.org/)</td>
   </tr>
 </table>
