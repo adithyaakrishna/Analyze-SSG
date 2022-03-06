@@ -43,7 +43,7 @@ The advantages of using SSGs are,
   </tr>
   <tr>
     <td>Docsify</td>
-    <td>MIT License</td>
+    <td>[MIT License](https://github.com/docsifyjs/docsify/blob/develop/LICENSE)</td>
     <td>JavaScript</td>
     <td>VueJS</td>
     <td>Documentation</td>
@@ -53,5 +53,18 @@ The advantages of using SSGs are,
     <td>Good Support</td>
     <td>Easy</td>
     <td>[Docsify Website](https://docsify.js.org/)</td>
+  </tr>
+  <tr>
+    <td>Hugo</td>
+    <td>[Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)</td>
+    <td>Go</td>
+    <td>None</td>
+    <td>General</td>
+    <td>Hugo Specific</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Good Support</td>
+    <td>Medium</td>
+    <td>[Hugo Website](https://gohugo.io/)</td>
   </tr>
 </table>
