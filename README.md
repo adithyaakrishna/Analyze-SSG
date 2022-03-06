@@ -67,4 +67,17 @@ The advantages of using SSGs are,
     <td>Medium</td>
     <td>[Hugo Website](https://gohugo.io/)</td>
   </tr>
+  <tr>
+    <td>Docusarus</td>
+    <td>[MIT License](https://github.com/facebook/docusaurus/blob/main/LICENSE)</td>
+    <td>JavaScript</td>
+    <td>ReactJS</td>
+    <td>Documentation</td>
+    <td>JSX/TSX (React Based)</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Very Good Support</td>
+    <td>Easy</td>
+    <td>[Docusarus Website](https://docusaurus.io/)</td>
+  </tr>
 </table>
