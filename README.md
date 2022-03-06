@@ -74,7 +74,7 @@ The advantages of using SSGs are,
     <td>[Hugo GitHub](https://github.com/gohugoio/hugo)</td>
   </tr>
   <tr>
-    <td>Docusarus</td>
+    <td>Docusaurus</td>
     <td>[MIT License](https://github.com/facebook/docusaurus/blob/main/LICENSE)</td>
     <td>JavaScript</td>
     <td>React.js</td>
@@ -84,9 +84,9 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[Docusarus Discord](https://discordapp.com/invite/docusaurus)</td>
-    <td>[Docusarus Website](https://docusaurus.io/)</td>
-    <td>[Docusarus GitHub](https://github.com/facebook/docusaurus)</td>
+    <td>[Docusaurus Discord](https://discordapp.com/invite/docusaurus)</td>
+    <td>[Docusaurus Website](https://docusaurus.io/)</td>
+    <td>[Docusaurus GitHub](https://github.com/facebook/docusaurus)</td>
   </tr>
   <tr>
     <td>VuePress</td>
