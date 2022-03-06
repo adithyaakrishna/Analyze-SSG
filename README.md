@@ -104,7 +104,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Good Support</td>
     <td>Easy</td>
-    <td>[NuxtJS Website]https://nuxtjs.org/)</td>
+    <td>[NuxtJS Website](https://nuxtjs.org/)</td>
   </tr>
   <tr>
     <td>Next.js</td>
@@ -117,7 +117,7 @@ The advantages of using SSGs are,
     <td>No</td>
     <td>Very Good Support</td>
     <td>Easy</td>
-    <td>[NextJS Website]https://nextjs.org/)</td>
+    <td>[NextJS Website](https://nextjs.org/)</td>
   </tr>
   <tr>
     <td>Gatsby.js</td>
@@ -131,5 +131,18 @@ The advantages of using SSGs are,
     <td>Very Good Support</td>
     <td>Easy</td>
     <td>[Gatsby.js Website](https://www.gatsbyjs.com/)</td>
+  </tr>
+  <tr>
+    <td>Jekyll</td>
+    <td>[MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE)</td>
+    <td>Ruby</td>
+    <td>None</td>
+    <td>General</td>
+    <td>[Liquid](https://jekyllrb.com/docs/liquid/)</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Very Good Support</td>
+    <td>Easy</td>
+    <td>[Jekyll Website](https://jekyllrb.com/)</td>
   </tr>
 </table>
